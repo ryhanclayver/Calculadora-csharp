@@ -1,2 +1,2 @@
-# ryhan_tauani
- trabalho feito na faculdade c#
+# calculadora em c#
+ trabalho feito para a faculdade
